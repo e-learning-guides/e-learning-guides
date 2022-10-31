@@ -22,3 +22,9 @@ If not explicitly mentioned, listings represent `bash` commands. Example
 ```
 cd /home/
 ```
+
+#
+
+Contributors: [Andreas Schwenk (TH Köln)](https://www.th-koeln.de/personen/andreas.schwenk/)
+
+![](img/logo-th-koeln.png)
