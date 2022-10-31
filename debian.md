@@ -95,3 +95,7 @@ Add the following line:
 ```
 0 1 * * * /usr/bin/certbot renew
 ```
+
+#
+
+![](img/logo-th-koeln.png)
