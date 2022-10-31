@@ -1,4 +1,4 @@
-![](../img/e-learning-guides-logo.png)
+![](img/e-learning-guides-logo.png)
 
 [Home](https://github.com/e-learning-guides)
 
