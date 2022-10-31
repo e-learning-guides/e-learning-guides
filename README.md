@@ -1,14 +1,27 @@
 ![](img/e-learning-guides-logo.png)
 
-This xxx
+TODO: intro text
 
 # Contents
 
+## E-Learning Systems
+
 - [Moodle and STACK](moodle/README.md)
 - Ilias
+
+## Operating Systems
+
 - Unix
 - Virtualization:
   - Xen Hypervisor
+
+# About this documentation
+
+If not explicitly mentioned, listings represent `bash` commands. Example
+
+```
+cd /home/
+```
 
 # Unix Commands
 
@@ -44,7 +57,15 @@ nano /etc/ssh/sshd_config
 
 Add the following line:
 
-> `PermitRootLogin yes`
+```
+PermitRootLogin yes
+```
+
+> **Info** Restart the SSH server to apply changes:
+
+```bash
+systemctl restart ssh
+```
 
 # Virtualization
 
