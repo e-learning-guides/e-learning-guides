@@ -25,3 +25,7 @@ This guide describes some UNIX basics.
 Consider the following websites for more information:
 
 TODO
+
+#
+
+![](img/logo-th-koeln.png)
