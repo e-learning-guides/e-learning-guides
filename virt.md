@@ -22,3 +22,7 @@ TODO: create a VM, start a VM, stop a VM, ...
 ```bash
 xm list
 ```
+
+#
+
+![](img/logo-th-koeln.png)
