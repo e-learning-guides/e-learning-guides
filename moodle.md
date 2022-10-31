@@ -56,3 +56,7 @@ Type e.g. `(1 + sqrt(2))^5;` and press enter.
 ## STACK
 
 # [Optimization](#opt)
+
+#
+
+![](img/logo-th-koeln.png)
