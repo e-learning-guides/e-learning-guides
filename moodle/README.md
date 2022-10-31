@@ -6,8 +6,18 @@
 
 > Author(s): [Andreas Schwenk (TH Köln)](https://www.th-koeln.de/personen/andreas.schwenk/)
 
-## Base Installation
+This guide describes the installation and optimization of Moodle 4.
 
-## Optimization
+TABLE OF CONTENTS
 
-## STACK Installation
+- [Base Installation](#base)
+- [STACK Installation](#stack)
+- [Optimizations](#opt)
+
+## [Base Installation](#base)
+
+Set up a base operating system. Visit our [Debian](TODO) guide for detailed information.
+
+## STACK Installation (#stack)
+
+## Optimization (#opt)
