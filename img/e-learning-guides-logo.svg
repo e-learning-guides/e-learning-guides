@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="261mm"
+   height="54mm"
+   viewBox="0 0 261 54"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="e-learning-guides-logo.svg"
+   inkscape:export-filename="e-learning-guides-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2416626"
+     inkscape:cx="540.80714"
+     inkscape:cy="369.26295"
+     inkscape:window-width="2560"
+     inkscape:window-height="1343"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4758"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="213.53716"
+       y="32.851871"
+       width="161.50418"
+       height="40.585892"
+       id="rect9587" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.26809;stroke-dasharray:none;stroke-opacity:1"
+       id="rect362"
+       width="255.70242"
+       height="30.681561"
+       x="2.4058712"
+       y="13.213003"
+       rx="4.7156401"
+       ry="5.1777306" />
+    <circle
+       style="fill:#000000;stroke-width:0.296748"
+       id="path111"
+       cx="33.705059"
+       cy="27.313292"
+       r="25.654076" />
+    <circle
+       style="fill:#ffffff;stroke-width:0.25317"
+       id="circle221"
+       cx="33.705029"
+       cy="27.313292"
+       r="21.886694" />
+    <rect
+       style="fill:#000000;stroke-width:5.72581;stroke-dasharray:none"
+       id="rect1122"
+       width="2.1392565"
+       height="33.488811"
+       x="35.649734"
+       y="5.0041404"
+       ry="1.129583"
+       rx="1.0696282"
+       transform="matrix(0.98861567,0.15046278,-0.13460347,0.99089954,0,0)" />
+    <path
+       style="fill:#000000;stroke-width:6.20581;stroke-dasharray:none"
+       d="m 15.627754,26.555614 c -0.20547,2.484296 9.160607,11.221508 10.506064,10.906198 0.57189,-0.13403 1.24261,-1.18695 0.76301,-1.64507 -1.46848,-1.402728 -8.944294,-7.441124 -8.745274,-8.956485 0.19903,-1.51536 9.754194,-5.890724 11.090004,-6.570945 0.43207,-0.550751 0.38205,-1.803331 -0.1169,-1.744808 -3.64111,0.427079 -13.291444,5.526814 -13.496904,8.01111 z"
+       id="path9433"
+       sodipodi:nodetypes="zsszcsz" />
+    <path
+       style="fill:#000000;stroke-width:6.20581;stroke-dasharray:none"
+       d="m 50.644836,29.31408 c 0.0596,-2.492065 -9.802114,-10.665713 -11.126794,-10.272144 -0.56306,0.167287 -1.17096,1.25769 -0.66536,1.686932 1.54812,1.31431 9.364764,6.904491 9.254834,8.428907 -0.10993,1.524416 -9.392434,6.451907 -10.686114,7.209197 -0.39906,0.57511 -0.27577,1.82261 0.21889,1.73497 3.60985,-0.63961 12.944934,-6.295797 13.004544,-8.787862 z"
+       id="path9531"
+       sodipodi:nodetypes="zsszcsz" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.5517902,0,0,1.8403915,-267.2123,-44.798868)"
+       id="text9585"
+       style="white-space:pre;shape-inside:url(#rect9587);display:inline;fill:#000000;stroke-width:21.0331;stroke-dasharray:none"><tspan
+         x="213.53711"
+         y="43.799526"
+         id="tspan2666"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan2664">e-learning-guides</tspan></tspan></text>
+  </g>
+</svg>
