@@ -1,5 +1,7 @@
 ![](img/e-learning-guides-logo.png)
 
+> **Warning** THIS SITE IS UNDER CONSTRUCTION :construction_worker:
+
 TODO: intro text
 
 # Contents
