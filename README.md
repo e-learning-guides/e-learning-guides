@@ -4,8 +4,7 @@ This xxx
 
 # Contents
 
-- Moodle
-  - STACK
+- [Moodle and STACK](moodle/README.md)
 - Ilias
 - Unix
 - Virtualization:
@@ -50,16 +49,6 @@ Add the following line:
 # Virtualization
 
 ## Xen Hypervisor
-
-# Moodle
-
-> Author(s): [Andreas Schwenk (TH Köln)](https://www.th-koeln.de/personen/andreas.schwenk/)
-
-## Base Installation
-
-## Optimization
-
-## STACK Installation
 
 # Ilias
 
