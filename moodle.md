@@ -55,7 +55,7 @@ Type e.g. `(1 + sqrt(2))^5;` and press enter.
 
 ## STACK
 
-# [Optimization](#opt)
+# [Optimizations](#opt)
 
 - TODO: e.g. turn off questionpool evaluation plugin ...
 - TODO: Was nun ewig dauert, ist die Auflistung von Kategorien in der Fragesammlung. In Moodle 4 werden dort Indikatoren angezeigt, wie zB “Überprüfung notwendig”, “Leichtigkeitsindex”. Insbesondere wenn man den Cache löscht, dauert es je nach Anzahl der Fragen in einer Kategorie viele Sekunden bis einige Minuten, bis die Liste angezeigt wird. Die CPU Last ist via “top” aber vernachlässigter gering. Per “iotop -oPa” (Dependancy: “apt Install texinfo”) kann man die IO-Activity in Debian sehen. Beispiel: Der Prozess “mariadb” schreibt knapp 140 MB auf die VM-Disk (siehe Screenshot im Anhang), wenn man die Fragekategorie “Potenz-/Log-/Wurzelrechnung” mit 72 Fragen öffnet. Man kann in den Plugineinstellungen im Bereich “Fragensammlungsplugins” den Punkt “Fragestatistiken” ausschalten. Dann läuft alles wieder flüssig.
